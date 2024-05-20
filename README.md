@@ -105,6 +105,6 @@ https://user-images.githubusercontent.com/77581157/236961546-9810f392-904d-48b6-
 
 ## Disclamier
 
-As our AI model uses an Algorithm with is licensed only for non-commercial use please try to make your own AI model for commercial use Other than that Use it freely 🙂
+As our AI model uses an Algorithm which is licensed only for non-commercial use please try to make your own AI model for commercial use Other than that Use it freely 🙂
 
 
